@@ -1,0 +1,4298 @@
+{
+  "version": "1.0.0",
+  "name": "Fevior Official Media & Assets Catalog",
+  "repo": "ing-charlie/fevior-assets",
+  "updatedAt": "2026-10-30T19:27:31.354Z",
+  "folders": {
+    "videos": [],
+    "backgrounds": [],
+    "logos": [
+      "logos-ipuc"
+    ],
+    "fonts": []
+  },
+  "items": [
+    {
+      "id": "vid-6-min-clean-blue-longest-ever-motion-background-u-1",
+      "type": "videos",
+      "name": "6-Min. Clean Blue Longest Ever Motion Background U",
+      "folder": "",
+      "fileName": "6-min-clean-blue-longest-ever-motion-background-u.mp4",
+      "relativePath": "videos/6-min-clean-blue-longest-ever-motion-background-u.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/6-min-clean-blue-longest-ever-motion-background-u.mp4",
+      "sizeBytes": 22171447,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "azul",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:43:02.873Z"
+    },
+    {
+      "id": "vid-relaxing-purple-sparkling-ambient-2",
+      "type": "videos",
+      "name": "Relaxing Purple Sparkling Ambient -",
+      "folder": "",
+      "fileName": "relaxing-purple-sparkling-ambient.mp4",
+      "relativePath": "videos/relaxing-purple-sparkling-ambient.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/relaxing-purple-sparkling-ambient.mp4",
+      "sizeBytes": 18912013,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "morado",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:47:09.047Z"
+    },
+    {
+      "id": "vid-cruz-de-adoracion-central-3",
+      "type": "videos",
+      "name": "Cruz de Adoración Central",
+      "folder": "",
+      "fileName": "cruz-de-adoracion-central.mp4",
+      "relativePath": "videos/cruz-de-adoracion-central.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/cruz-de-adoracion-central.mp4",
+      "sizeBytes": 493485,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "cruz",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:47:09.051Z"
+    },
+    {
+      "id": "vid-destellos-purpura-bokeh-4",
+      "type": "videos",
+      "name": "Destellos Púrpura Bokeh",
+      "folder": "",
+      "fileName": "destellos-purpura-bokeh.mp4",
+      "relativePath": "videos/destellos-purpura-bokeh.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/destellos-purpura-bokeh.mp4",
+      "sizeBytes": 16993614,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "morado",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:47:09.053Z"
+    },
+    {
+      "id": "vid-swinging-stars-space-motion-background-5",
+      "type": "videos",
+      "name": "Swinging Stars Space Motion Background",
+      "folder": "",
+      "fileName": "swinging-stars-space-motion-background.mp4",
+      "relativePath": "videos/swinging-stars-space-motion-background.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/swinging-stars-space-motion-background.mp4",
+      "sizeBytes": 17005756,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "espacio",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.814Z"
+    },
+    {
+      "id": "vid-glorifying-the-love-of-jesus-at-golgotha-6",
+      "type": "videos",
+      "name": "Glorifying the Love of Jesus at Golgotha -",
+      "folder": "",
+      "fileName": "glorifying-the-love-of-jesus-at-golgotha.mp4",
+      "relativePath": "videos/glorifying-the-love-of-jesus-at-golgotha.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/glorifying-the-love-of-jesus-at-golgotha.mp4",
+      "sizeBytes": 39578382,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "cruz",
+        "jesus",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.816Z"
+    },
+    {
+      "id": "vid-colorful-shining-rays-motion-effect-7",
+      "type": "videos",
+      "name": "Colorful Shining Rays Motion Effect",
+      "folder": "",
+      "fileName": "colorful-shining-rays-motion-effect.mp4",
+      "relativePath": "videos/colorful-shining-rays-motion-effect.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/colorful-shining-rays-motion-effect.mp4",
+      "sizeBytes": 23331606,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "luces",
+        "rayos",
+        "destellos"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.819Z"
+    },
+    {
+      "id": "vid-green-plasma-ripple-swamp-effect-background-animat-8",
+      "type": "videos",
+      "name": "Green Plasma Ripple Swamp Effect Background Animation",
+      "folder": "",
+      "fileName": "green-plasma-ripple-swamp-effect-background-animat.mp4",
+      "relativePath": "videos/green-plasma-ripple-swamp-effect-background-animat.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/green-plasma-ripple-swamp-effect-background-animat.mp4",
+      "sizeBytes": 6625036,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "verde",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.822Z"
+    },
+    {
+      "id": "vid-biblia-abierta-en-luz-de-adoracion-9",
+      "type": "videos",
+      "name": "Biblia Abierta en Luz de Adoración",
+      "folder": "",
+      "fileName": "biblia-abierta-en-luz-de-adoracion.mp4",
+      "relativePath": "videos/biblia-abierta-en-luz-de-adoracion.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/biblia-abierta-en-luz-de-adoracion.mp4",
+      "sizeBytes": 3688972,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "biblia",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.827Z"
+    },
+    {
+      "id": "vid-clean-bokeh-10",
+      "type": "videos",
+      "name": "Clean Bokeh -",
+      "folder": "",
+      "fileName": "clean-bokeh.mp4",
+      "relativePath": "videos/clean-bokeh.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/clean-bokeh.mp4",
+      "sizeBytes": 199114,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "bokeh",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.829Z"
+    },
+    {
+      "id": "vid-rustic-11",
+      "type": "videos",
+      "name": "Rustic",
+      "folder": "",
+      "fileName": "rustic.mp4",
+      "relativePath": "videos/rustic.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/rustic.mp4",
+      "sizeBytes": 44898433,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.831Z"
+    },
+    {
+      "id": "vid-particulas-azules-en-suspension-12",
+      "type": "videos",
+      "name": "Partículas Azules en Suspensión",
+      "folder": "",
+      "fileName": "particulas-azules-en-suspension.mp4",
+      "relativePath": "videos/particulas-azules-en-suspension.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/particulas-azules-en-suspension.mp4",
+      "sizeBytes": 23717966,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "azul",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.833Z"
+    },
+    {
+      "id": "vid-smoke-13",
+      "type": "videos",
+      "name": "Smoke",
+      "folder": "",
+      "fileName": "smoke.mp4",
+      "relativePath": "videos/smoke.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/smoke.mp4",
+      "sizeBytes": 1529994,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.835Z"
+    },
+    {
+      "id": "vid-low-poly-colors-01-14",
+      "type": "videos",
+      "name": "Low Poly Colors 01 -",
+      "folder": "",
+      "fileName": "low-poly-colors-01.mp4",
+      "relativePath": "videos/low-poly-colors-01.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/low-poly-colors-01.mp4",
+      "sizeBytes": 376656,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.836Z"
+    },
+    {
+      "id": "vid-midnight-clear-15",
+      "type": "videos",
+      "name": "Midnight Clear -",
+      "folder": "",
+      "fileName": "midnight-clear.mp4",
+      "relativePath": "videos/midnight-clear.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/midnight-clear.mp4",
+      "sizeBytes": 2303147,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.838Z"
+    },
+    {
+      "id": "vid-cruz-de-adoracion-loops-motions-background-for-chu-16",
+      "type": "videos",
+      "name": "Cruz de Adoración Loops Motions Background for Church 7",
+      "folder": "",
+      "fileName": "cruz-de-adoracion-loops-motions-background-for-chu.mp4",
+      "relativePath": "videos/cruz-de-adoracion-loops-motions-background-for-chu.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/cruz-de-adoracion-loops-motions-background-for-chu.mp4",
+      "sizeBytes": 585122,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "cruz",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.840Z"
+    },
+    {
+      "id": "vid-simple-blue-17",
+      "type": "videos",
+      "name": "Simple Blue -",
+      "folder": "",
+      "fileName": "simple-blue.mp4",
+      "relativePath": "videos/simple-blue.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/simple-blue.mp4",
+      "sizeBytes": 4134385,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "azul",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.842Z"
+    },
+    {
+      "id": "vid-llamas-y-fuego-del-espiritu-18",
+      "type": "videos",
+      "name": "Llamas y Fuego del Espíritu",
+      "folder": "",
+      "fileName": "llamas-y-fuego-del-espiritu.mp4",
+      "relativePath": "videos/llamas-y-fuego-del-espiritu.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/llamas-y-fuego-del-espiritu.mp4",
+      "sizeBytes": 2047400,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "luces",
+        "fuego",
+        "destellos"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.845Z"
+    },
+    {
+      "id": "vid-deep-colors-19",
+      "type": "videos",
+      "name": "deep colors",
+      "folder": "",
+      "fileName": "deep-colors.mp4",
+      "relativePath": "videos/deep-colors.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/deep-colors.mp4",
+      "sizeBytes": 1159173,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.847Z"
+    },
+    {
+      "id": "vid-dancingstars-20",
+      "type": "videos",
+      "name": "DancingStars -",
+      "folder": "",
+      "fileName": "dancingstars.mp4",
+      "relativePath": "videos/dancingstars.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/dancingstars.mp4",
+      "sizeBytes": 897123,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "espacio",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.849Z"
+    },
+    {
+      "id": "vid-light-column-particles-motion-background-21",
+      "type": "videos",
+      "name": "Light Column Particles Motion Background",
+      "folder": "",
+      "fileName": "light-column-particles-motion-background.mp4",
+      "relativePath": "videos/light-column-particles-motion-background.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/light-column-particles-motion-background.mp4",
+      "sizeBytes": 686994,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.851Z"
+    },
+    {
+      "id": "vid-nombre-de-jesus-resplandor-22",
+      "type": "videos",
+      "name": "Nombre de Jesús - Resplandor",
+      "folder": "",
+      "fileName": "nombre-de-jesus-resplandor.mp4",
+      "relativePath": "videos/nombre-de-jesus-resplandor.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/nombre-de-jesus-resplandor.mp4",
+      "sizeBytes": 2690138,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "jesus",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.853Z"
+    },
+    {
+      "id": "vid-blue-grunge-snow-23",
+      "type": "videos",
+      "name": "Blue Grunge Snow -",
+      "folder": "",
+      "fileName": "blue-grunge-snow.mp4",
+      "relativePath": "videos/blue-grunge-snow.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/blue-grunge-snow.mp4",
+      "sizeBytes": 7987107,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "azul",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.856Z"
+    },
+    {
+      "id": "vid-blue-vertical-light-particles-background-loop-24",
+      "type": "videos",
+      "name": "Blue Vertical Light Particles - Background Loop",
+      "folder": "",
+      "fileName": "blue-vertical-light-particles-background-loop.mp4",
+      "relativePath": "videos/blue-vertical-light-particles-background-loop.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/blue-vertical-light-particles-background-loop.mp4",
+      "sizeBytes": 952387,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "azul",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.858Z"
+    },
+    {
+      "id": "vid-bright-particles-25",
+      "type": "videos",
+      "name": "Bright Particles -",
+      "folder": "",
+      "fileName": "bright-particles.mp4",
+      "relativePath": "videos/bright-particles.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/bright-particles.mp4",
+      "sizeBytes": 1011075,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.861Z"
+    },
+    {
+      "id": "vid-free-plexus-loop-26",
+      "type": "videos",
+      "name": "Free Plexus Loop",
+      "folder": "",
+      "fileName": "free-plexus-loop.mp4",
+      "relativePath": "videos/free-plexus-loop.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/free-plexus-loop.mp4",
+      "sizeBytes": 2954381,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.865Z"
+    },
+    {
+      "id": "vid-aguas-tranquilas-y-cristalinas-27",
+      "type": "videos",
+      "name": "Aguas Tranquilas y Cristalinas",
+      "folder": "",
+      "fileName": "aguas-tranquilas-y-cristalinas.mp4",
+      "relativePath": "videos/aguas-tranquilas-y-cristalinas.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/aguas-tranquilas-y-cristalinas.mp4",
+      "sizeBytes": 2861156,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "naturaleza",
+        "agua",
+        "creacion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.867Z"
+    },
+    {
+      "id": "vid-vitrales-de-iglesia-clasicos-28",
+      "type": "videos",
+      "name": "Vitrales de Iglesia Clásicos",
+      "folder": "",
+      "fileName": "vitrales-de-iglesia-clasicos.mp4",
+      "relativePath": "videos/vitrales-de-iglesia-clasicos.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/vitrales-de-iglesia-clasicos.mp4",
+      "sizeBytes": 823271,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.870Z"
+    },
+    {
+      "id": "vid-corriente-de-agua-viva-29",
+      "type": "videos",
+      "name": "Corriente de Agua Viva",
+      "folder": "",
+      "fileName": "corriente-de-agua-viva.mp4",
+      "relativePath": "videos/corriente-de-agua-viva.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/corriente-de-agua-viva.mp4",
+      "sizeBytes": 1388777,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "naturaleza",
+        "agua",
+        "creacion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.873Z"
+    },
+    {
+      "id": "vid-videos-abstract-animated-dark-light-with-particles-30",
+      "type": "videos",
+      "name": "Videos – abstract animated dark light with particles floating slowly",
+      "folder": "",
+      "fileName": "videos-abstract-animated-dark-light-with-particles.mp4",
+      "relativePath": "videos/videos-abstract-animated-dark-light-with-particles.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/videos-abstract-animated-dark-light-with-particles.mp4",
+      "sizeBytes": 1172891,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.876Z"
+    },
+    {
+      "id": "vid-twirling-particles-31",
+      "type": "videos",
+      "name": "- Twirling Particles",
+      "folder": "",
+      "fileName": "twirling-particles.mp4",
+      "relativePath": "videos/twirling-particles.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/twirling-particles.mp4",
+      "sizeBytes": 26658539,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.880Z"
+    },
+    {
+      "id": "vid-background-loop-32",
+      "type": "videos",
+      "name": "Background Loop - , , ,",
+      "folder": "",
+      "fileName": "background-loop.mp4",
+      "relativePath": "videos/background-loop.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/background-loop.mp4",
+      "sizeBytes": 3515286,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "verde",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.883Z"
+    },
+    {
+      "id": "vid-manos-alzadas-en-alabanza-33",
+      "type": "videos",
+      "name": "Manos Alzadas en Alabanza",
+      "folder": "",
+      "fileName": "manos-alzadas-en-alabanza.mp4",
+      "relativePath": "videos/manos-alzadas-en-alabanza.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/manos-alzadas-en-alabanza.mp4",
+      "sizeBytes": 756942,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "manos",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.885Z"
+    },
+    {
+      "id": "vid-luz-dorada-celestial-34",
+      "type": "videos",
+      "name": "Luz Dorada Celestial",
+      "folder": "",
+      "fileName": "luz-dorada-celestial.mp4",
+      "relativePath": "videos/luz-dorada-celestial.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/luz-dorada-celestial.mp4",
+      "sizeBytes": 5727589,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "luces",
+        "dorado",
+        "destellos"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.887Z"
+    },
+    {
+      "id": "vid-cruz-y-tumba-vacia-resurreccion-35",
+      "type": "videos",
+      "name": "Cruz y Tumba Vacía Resurrección",
+      "folder": "",
+      "fileName": "cruz-y-tumba-vacia-resurreccion.mp4",
+      "relativePath": "videos/cruz-y-tumba-vacia-resurreccion.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/cruz-y-tumba-vacia-resurreccion.mp4",
+      "sizeBytes": 3493911,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "cruz",
+        "jesus",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.889Z"
+    },
+    {
+      "id": "vid-useful-blue-stars-clean-motion-background-36",
+      "type": "videos",
+      "name": "Useful Blue Stars Clean Motion Background",
+      "folder": "",
+      "fileName": "useful-blue-stars-clean-motion-background.mp4",
+      "relativePath": "videos/useful-blue-stars-clean-motion-background.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/useful-blue-stars-clean-motion-background.mp4",
+      "sizeBytes": 4623900,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "espacio",
+        "azul",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.892Z"
+    },
+    {
+      "id": "vid-blinking-dusty-grunge-colorful-style-motion-backgr-37",
+      "type": "videos",
+      "name": "Blinking Dusty Grunge Colorful Style Motion Background",
+      "folder": "",
+      "fileName": "blinking-dusty-grunge-colorful-style-motion-backgr.mp4",
+      "relativePath": "videos/blinking-dusty-grunge-colorful-style-motion-backgr.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/blinking-dusty-grunge-colorful-style-motion-backgr.mp4",
+      "sizeBytes": 28553107,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.894Z"
+    },
+    {
+      "id": "vid-blue-defocused-particles-flv-38",
+      "type": "videos",
+      "name": "Blue Defocused Particles .flv",
+      "folder": "",
+      "fileName": "blue-defocused-particles-flv.mp4",
+      "relativePath": "videos/blue-defocused-particles-flv.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/blue-defocused-particles-flv.mp4",
+      "sizeBytes": 1374282,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "azul",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.895Z"
+    },
+    {
+      "id": "vid-deep-light-hall-free-footage-full-39",
+      "type": "videos",
+      "name": "Deep Light Hall - Free Footage - Full",
+      "folder": "",
+      "fileName": "deep-light-hall-free-footage-full.mp4",
+      "relativePath": "videos/deep-light-hall-free-footage-full.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/deep-light-hall-free-footage-full.mp4",
+      "sizeBytes": 234038,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "luces",
+        "destellos"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.897Z"
+    },
+    {
+      "id": "vid-star-falling-tree-free-loop-40",
+      "type": "videos",
+      "name": "Star Falling Tree - Free - Loop -",
+      "folder": "",
+      "fileName": "star-falling-tree-free-loop.mp4",
+      "relativePath": "videos/star-falling-tree-free-loop.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/star-falling-tree-free-loop.mp4",
+      "sizeBytes": 22345994,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "espacio",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.899Z"
+    },
+    {
+      "id": "vid-ponder-the-bible-free-loop-41",
+      "type": "videos",
+      "name": "Ponder the Bible - Free - Loop -",
+      "folder": "",
+      "fileName": "ponder-the-bible-free-loop.mp4",
+      "relativePath": "videos/ponder-the-bible-free-loop.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/ponder-the-bible-free-loop.mp4",
+      "sizeBytes": 557049,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "biblia",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.901Z"
+    },
+    {
+      "id": "vid-praise-and-worship-hands-up-silhouette-to-color-li-42",
+      "type": "videos",
+      "name": "Praise And Worship Hands Up Silhouette To Color Lighted Sky Christian Worship Background Loop",
+      "folder": "",
+      "fileName": "praise-and-worship-hands-up-silhouette-to-color-li.mp4",
+      "relativePath": "videos/praise-and-worship-hands-up-silhouette-to-color-li.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/praise-and-worship-hands-up-silhouette-to-color-li.mp4",
+      "sizeBytes": 2958176,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "manos",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.904Z"
+    },
+    {
+      "id": "vid-church-people-praise-and-worship-with-hands-and-ar-43",
+      "type": "videos",
+      "name": "Church People Praise And Worship With Hands And Arms Up In Grayscale Christian Worship Background",
+      "folder": "",
+      "fileName": "church-people-praise-and-worship-with-hands-and-ar.mp4",
+      "relativePath": "videos/church-people-praise-and-worship-with-hands-and-ar.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/church-people-praise-and-worship-with-hands-and-ar.mp4",
+      "sizeBytes": 23764967,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "manos",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.906Z"
+    },
+    {
+      "id": "vid-free-intro-no-text-44",
+      "type": "videos",
+      "name": "Free intro no text",
+      "folder": "",
+      "fileName": "free-intro-no-text.mp4",
+      "relativePath": "videos/free-intro-no-text.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/free-intro-no-text.mp4",
+      "sizeBytes": 3666023,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:50:47.908Z"
+    },
+    {
+      "id": "vid-neon-tunnel-1-4-45",
+      "type": "videos",
+      "name": "Neon Tunnel 1⧸4",
+      "folder": "",
+      "fileName": "neon-tunnel-1-4.mp4",
+      "relativePath": "videos/neon-tunnel-1-4.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/neon-tunnel-1-4.mp4",
+      "sizeBytes": 87513321,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:55:30.064Z"
+    },
+    {
+      "id": "vid-neon-tunnel-2-4-46",
+      "type": "videos",
+      "name": "Neon Tunnel 2⧸4",
+      "folder": "",
+      "fileName": "neon-tunnel-2-4.mp4",
+      "relativePath": "videos/neon-tunnel-2-4.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/neon-tunnel-2-4.mp4",
+      "sizeBytes": 29693223,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:57:53.664Z"
+    },
+    {
+      "id": "vid-subtle-light-waves-10-10-47",
+      "type": "videos",
+      "name": "Subtle Light Waves 10⧸10",
+      "folder": "",
+      "fileName": "subtle-light-waves-10-10.mp4",
+      "relativePath": "videos/subtle-light-waves-10-10.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/subtle-light-waves-10-10.mp4",
+      "sizeBytes": 8224850,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:57:53.669Z"
+    },
+    {
+      "id": "vid-digital-flash-1-48",
+      "type": "videos",
+      "name": "Digital Flash 1",
+      "folder": "",
+      "fileName": "digital-flash-1.mp4",
+      "relativePath": "videos/digital-flash-1.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/digital-flash-1.mp4",
+      "sizeBytes": 68137684,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:57:53.673Z"
+    },
+    {
+      "id": "vid-neon-5-49",
+      "type": "videos",
+      "name": "Neon 5",
+      "folder": "",
+      "fileName": "neon-5.mp4",
+      "relativePath": "videos/neon-5.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/neon-5.mp4",
+      "sizeBytes": 53472913,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:57:53.676Z"
+    },
+    {
+      "id": "vid-small-little-orange-lights-50",
+      "type": "videos",
+      "name": "Small Little Orange Lights ｜",
+      "folder": "",
+      "fileName": "small-little-orange-lights.mp4",
+      "relativePath": "videos/small-little-orange-lights.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/small-little-orange-lights.mp4",
+      "sizeBytes": 22427705,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "luces",
+        "naranja",
+        "destellos"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:59:22.880Z"
+    },
+    {
+      "id": "vid-gold-drop-51",
+      "type": "videos",
+      "name": "Gold Drop",
+      "folder": "",
+      "fileName": "gold-drop.mp4",
+      "relativePath": "videos/gold-drop.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/gold-drop.mp4",
+      "sizeBytes": 43976431,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "dorado",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T18:59:22.882Z"
+    },
+    {
+      "id": "vid-light-illuminating-blue-glitter-particles-52",
+      "type": "videos",
+      "name": "Light Illuminating Blue Glitter Particles ｜",
+      "folder": "",
+      "fileName": "light-illuminating-blue-glitter-particles.mp4",
+      "relativePath": "videos/light-illuminating-blue-glitter-particles.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/light-illuminating-blue-glitter-particles.mp4",
+      "sizeBytes": 23767714,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "azul",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:00:50.334Z"
+    },
+    {
+      "id": "vid-digital-white-lines-moving-53",
+      "type": "videos",
+      "name": "Digital White Lines Moving ｜",
+      "folder": "",
+      "fileName": "digital-white-lines-moving.mp4",
+      "relativePath": "videos/digital-white-lines-moving.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/digital-white-lines-moving.mp4",
+      "sizeBytes": 66345458,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:00:50.336Z"
+    },
+    {
+      "id": "vid-arrival-loop-54",
+      "type": "videos",
+      "name": "Arrival Loop",
+      "folder": "",
+      "fileName": "arrival-loop.mp4",
+      "relativePath": "videos/arrival-loop.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/arrival-loop.mp4",
+      "sizeBytes": 431829,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:00:50.338Z"
+    },
+    {
+      "id": "vid-oblique-3-55",
+      "type": "videos",
+      "name": "Oblique 3",
+      "folder": "",
+      "fileName": "oblique-3.mp4",
+      "relativePath": "videos/oblique-3.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/oblique-3.mp4",
+      "sizeBytes": 2095900,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:00:50.341Z"
+    },
+    {
+      "id": "vid-worship-church-background-56",
+      "type": "videos",
+      "name": "Worship church background",
+      "folder": "",
+      "fileName": "worship-church-background.mp4",
+      "relativePath": "videos/worship-church-background.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/worship-church-background.mp4",
+      "sizeBytes": 2187162,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:00:50.343Z"
+    },
+    {
+      "id": "vid-red-warm-strong-beautifull-animated-motion-backgro-57",
+      "type": "videos",
+      "name": "Red Warm Strong Beautifull Animated Motion Background Loop {}",
+      "folder": "",
+      "fileName": "red-warm-strong-beautifull-animated-motion-backgro.mp4",
+      "relativePath": "videos/red-warm-strong-beautifull-animated-motion-backgro.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/red-warm-strong-beautifull-animated-motion-backgro.mp4",
+      "sizeBytes": 22634749,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "rojo",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:00:50.346Z"
+    },
+    {
+      "id": "vid-cruz-de-adoracion-download-easy-worship-58",
+      "type": "videos",
+      "name": "Cruz de Adoración Download easy worship",
+      "folder": "",
+      "fileName": "cruz-de-adoracion-download-easy-worship.mp4",
+      "relativePath": "videos/cruz-de-adoracion-download-easy-worship.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/cruz-de-adoracion-download-easy-worship.mp4",
+      "sizeBytes": 3025785,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "cruz",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:00:50.349Z"
+    },
+    {
+      "id": "vid-luna-llena-majestuosa-en-la-montana-59",
+      "type": "videos",
+      "name": "Luna Llena Majestuosa en la Montaña",
+      "folder": "",
+      "fileName": "luna-llena-majestuosa-en-la-montana.mp4",
+      "relativePath": "videos/luna-llena-majestuosa-en-la-montana.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/luna-llena-majestuosa-en-la-montana.mp4",
+      "sizeBytes": 26433233,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "naturaleza",
+        "cielo",
+        "montaña",
+        "creacion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:00:50.353Z"
+    },
+    {
+      "id": "vid-moving-stars-60",
+      "type": "videos",
+      "name": "Moving STARS",
+      "folder": "",
+      "fileName": "moving-stars.mp4",
+      "relativePath": "videos/moving-stars.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/moving-stars.mp4",
+      "sizeBytes": 2401749,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "espacio",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.900Z"
+    },
+    {
+      "id": "vid-blue-squares-background-loop-61",
+      "type": "videos",
+      "name": "Blue Squares - Background Loop",
+      "folder": "",
+      "fileName": "blue-squares-background-loop.mp4",
+      "relativePath": "videos/blue-squares-background-loop.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/blue-squares-background-loop.mp4",
+      "sizeBytes": 471461,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "azul",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.902Z"
+    },
+    {
+      "id": "vid-amanecer-en-valle-y-montanas-62",
+      "type": "videos",
+      "name": "Amanecer en Valle y Montañas",
+      "folder": "",
+      "fileName": "amanecer-en-valle-y-montanas.mp4",
+      "relativePath": "videos/amanecer-en-valle-y-montanas.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/amanecer-en-valle-y-montanas.mp4",
+      "sizeBytes": 5082784,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.904Z"
+    },
+    {
+      "id": "vid-santa-cena-pan-y-vino-sagrado-63",
+      "type": "videos",
+      "name": "Santa Cena - Pan y Vino Sagrado",
+      "folder": "",
+      "fileName": "santa-cena-pan-y-vino-sagrado.mp4",
+      "relativePath": "videos/santa-cena-pan-y-vino-sagrado.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/santa-cena-pan-y-vino-sagrado.mp4",
+      "sizeBytes": 7988284,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "santa-cena",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.906Z"
+    },
+    {
+      "id": "vid-organic-bokehs-06-overlay-64",
+      "type": "videos",
+      "name": "organic bokehs 06 - overlay",
+      "folder": "",
+      "fileName": "organic-bokehs-06-overlay.mp4",
+      "relativePath": "videos/organic-bokehs-06-overlay.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/organic-bokehs-06-overlay.mp4",
+      "sizeBytes": 701310,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "bokeh",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.908Z"
+    },
+    {
+      "id": "vid-forestlake-65",
+      "type": "videos",
+      "name": "Forestlake",
+      "folder": "",
+      "fileName": "forestlake.mp4",
+      "relativePath": "videos/forestlake.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/forestlake.mp4",
+      "sizeBytes": 9698809,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "naturaleza",
+        "agua",
+        "creacion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.909Z"
+    },
+    {
+      "id": "vid-christian-worship-background-video-66",
+      "type": "videos",
+      "name": "Christian Worship Background Video",
+      "folder": "",
+      "fileName": "christian-worship-background-video.mp4",
+      "relativePath": "videos/christian-worship-background-video.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/christian-worship-background-video.mp4",
+      "sizeBytes": 8372571,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.911Z"
+    },
+    {
+      "id": "vid-bokeh-flash-67",
+      "type": "videos",
+      "name": "Bokeh Flash",
+      "folder": "",
+      "fileName": "bokeh-flash.mp4",
+      "relativePath": "videos/bokeh-flash.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/bokeh-flash.mp4",
+      "sizeBytes": 16183116,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.912Z"
+    },
+    {
+      "id": "vid-light-burst-8-11-68",
+      "type": "videos",
+      "name": "Light Burst 8⧸11",
+      "folder": "",
+      "fileName": "light-burst-8-11.mp4",
+      "relativePath": "videos/light-burst-8-11.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/light-burst-8-11.mp4",
+      "sizeBytes": 29563253,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.913Z"
+    },
+    {
+      "id": "vid-digital-sparkle-69",
+      "type": "videos",
+      "name": "Digital Sparkle -",
+      "folder": "",
+      "fileName": "digital-sparkle.mp4",
+      "relativePath": "videos/digital-sparkle.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/digital-sparkle.mp4",
+      "sizeBytes": 10251671,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.914Z"
+    },
+    {
+      "id": "vid-subtle-light-waves-6-10-70",
+      "type": "videos",
+      "name": "Subtle Light Waves 6⧸10",
+      "folder": "",
+      "fileName": "subtle-light-waves-6-10.mp4",
+      "relativePath": "videos/subtle-light-waves-6-10.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/subtle-light-waves-6-10.mp4",
+      "sizeBytes": 9721383,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.915Z"
+    },
+    {
+      "id": "vid-retro-triangles-1-71",
+      "type": "videos",
+      "name": "Retro Triangles 1",
+      "folder": "",
+      "fileName": "retro-triangles-1.mp4",
+      "relativePath": "videos/retro-triangles-1.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/retro-triangles-1.mp4",
+      "sizeBytes": 11715103,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.917Z"
+    },
+    {
+      "id": "vid-hope-rising-72",
+      "type": "videos",
+      "name": "Hope Rising -",
+      "folder": "",
+      "fileName": "hope-rising.mp4",
+      "relativePath": "videos/hope-rising.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/hope-rising.mp4",
+      "sizeBytes": 6545232,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.918Z"
+    },
+    {
+      "id": "vid-piano-tiles-73",
+      "type": "videos",
+      "name": "Piano Tiles",
+      "folder": "",
+      "fileName": "piano-tiles.mp4",
+      "relativePath": "videos/piano-tiles.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/piano-tiles.mp4",
+      "sizeBytes": 34301402,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.919Z"
+    },
+    {
+      "id": "vid-uplighting-74",
+      "type": "videos",
+      "name": "Uplighting -",
+      "folder": "",
+      "fileName": "uplighting.mp4",
+      "relativePath": "videos/uplighting.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/uplighting.mp4",
+      "sizeBytes": 6449574,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "luces",
+        "destellos"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.920Z"
+    },
+    {
+      "id": "vid-digital-sequins-75",
+      "type": "videos",
+      "name": "Digital Sequins -",
+      "folder": "",
+      "fileName": "digital-sequins.mp4",
+      "relativePath": "videos/digital-sequins.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/digital-sequins.mp4",
+      "sizeBytes": 6235895,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.923Z"
+    },
+    {
+      "id": "vid-neon-lines-76",
+      "type": "videos",
+      "name": "Neon Lines",
+      "folder": "",
+      "fileName": "neon-lines.mp4",
+      "relativePath": "videos/neon-lines.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/neon-lines.mp4",
+      "sizeBytes": 37049872,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.924Z"
+    },
+    {
+      "id": "vid-llamas-y-fuego-del-espiritu-77",
+      "type": "videos",
+      "name": "Llamas y Fuego del Espíritu",
+      "folder": "",
+      "fileName": "llamas-y-fuego-del-espiritu-2.mp4",
+      "relativePath": "videos/llamas-y-fuego-del-espiritu-2.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/llamas-y-fuego-del-espiritu-2.mp4",
+      "sizeBytes": 1788070,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "adoracion",
+        "culto",
+        "alabanza"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.925Z"
+    },
+    {
+      "id": "vid-night-sky-78",
+      "type": "videos",
+      "name": "Night Sky",
+      "folder": "",
+      "fileName": "night-sky.mp4",
+      "relativePath": "videos/night-sky.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/night-sky.mp4",
+      "sizeBytes": 5419745,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "naturaleza",
+        "cielo",
+        "creacion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.926Z"
+    },
+    {
+      "id": "vid-gold-bokeh-and-lights-79",
+      "type": "videos",
+      "name": "Gold Bokeh and Lights",
+      "folder": "",
+      "fileName": "gold-bokeh-and-lights.mp4",
+      "relativePath": "videos/gold-bokeh-and-lights.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/gold-bokeh-and-lights.mp4",
+      "sizeBytes": 2981793,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "bokeh",
+        "dorado",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.929Z"
+    },
+    {
+      "id": "vid-loop-triangle-clouds-soft-background-loop-80",
+      "type": "videos",
+      "name": "Loop： Triangle Clouds Soft Background Loop",
+      "folder": "",
+      "fileName": "loop-triangle-clouds-soft-background-loop.mp4",
+      "relativePath": "videos/loop-triangle-clouds-soft-background-loop.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/loop-triangle-clouds-soft-background-loop.mp4",
+      "sizeBytes": 305154,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "naturaleza",
+        "creacion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.931Z"
+    },
+    {
+      "id": "vid-aquarays-free-video-background-loops-81",
+      "type": "videos",
+      "name": "AquaRays - FREE Video Background Loops",
+      "folder": "",
+      "fileName": "aquarays-free-video-background-loops.mp4",
+      "relativePath": "videos/aquarays-free-video-background-loops.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/aquarays-free-video-background-loops.mp4",
+      "sizeBytes": 419587,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "luces",
+        "rayos",
+        "azul",
+        "destellos"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.932Z"
+    },
+    {
+      "id": "vid-horizontal-fractal-82",
+      "type": "videos",
+      "name": "horizontal fractal",
+      "folder": "",
+      "fileName": "horizontal-fractal.mp4",
+      "relativePath": "videos/horizontal-fractal.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/horizontal-fractal.mp4",
+      "sizeBytes": 1714694,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:01:18.933Z"
+    },
+    {
+      "id": "vid-space-travel-blue-nebula-massive-bokeh-spiral-part-83",
+      "type": "videos",
+      "name": "Space Travel Blue Nebula Massive Bokeh Spiral Particle",
+      "folder": "",
+      "fileName": "space-travel-blue-nebula-massive-bokeh-spiral-part.mp4",
+      "relativePath": "videos/space-travel-blue-nebula-massive-bokeh-spiral-part.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/space-travel-blue-nebula-massive-bokeh-spiral-part.mp4",
+      "sizeBytes": 67169735,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "bokeh",
+        "espacio",
+        "azul",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:03:24.467Z"
+    },
+    {
+      "id": "vid-bubbles-universe-beauty-motion-background-84",
+      "type": "videos",
+      "name": "Bubbles Universe Beauty Motion Background",
+      "folder": "",
+      "fileName": "bubbles-universe-beauty-motion-background.mp4",
+      "relativePath": "videos/bubbles-universe-beauty-motion-background.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/bubbles-universe-beauty-motion-background.mp4",
+      "sizeBytes": 54516178,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:05:38.088Z"
+    },
+    {
+      "id": "vid-the-great-colorful-wave-form-sparkling-motion-back-85",
+      "type": "videos",
+      "name": "The Great Colorful Wave Form Sparkling Motion Background",
+      "folder": "",
+      "fileName": "the-great-colorful-wave-form-sparkling-motion-back.mp4",
+      "relativePath": "videos/the-great-colorful-wave-form-sparkling-motion-back.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/the-great-colorful-wave-form-sparkling-motion-back.mp4",
+      "sizeBytes": 20358132,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:05:38.090Z"
+    },
+    {
+      "id": "vid-animated-curtain-with-galaxy-86",
+      "type": "videos",
+      "name": "Animated Curtain with galaxy",
+      "folder": "",
+      "fileName": "animated-curtain-with-galaxy.mp4",
+      "relativePath": "videos/animated-curtain-with-galaxy.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/animated-curtain-with-galaxy.mp4",
+      "sizeBytes": 4667848,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "espacio",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:05:38.093Z"
+    },
+    {
+      "id": "vid-blue-tiles-background-loop-87",
+      "type": "videos",
+      "name": "Blue Tiles - Background Loop",
+      "folder": "",
+      "fileName": "blue-tiles-background-loop.mp4",
+      "relativePath": "videos/blue-tiles-background-loop.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/blue-tiles-background-loop.mp4",
+      "sizeBytes": 6711108,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "azul",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:05:38.097Z"
+    },
+    {
+      "id": "vid-blue-tile-floor-88",
+      "type": "videos",
+      "name": "Blue Tile Floor -",
+      "folder": "",
+      "fileName": "blue-tile-floor.mp4",
+      "relativePath": "videos/blue-tile-floor.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/blue-tile-floor.mp4",
+      "sizeBytes": 3230952,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "azul",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:05:38.101Z"
+    },
+    {
+      "id": "vid-blue-particle-burst-89",
+      "type": "videos",
+      "name": "Blue Particle Burst -",
+      "folder": "",
+      "fileName": "blue-particle-burst.mp4",
+      "relativePath": "videos/blue-particle-burst.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/blue-particle-burst.mp4",
+      "sizeBytes": 5819671,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "particulas",
+        "azul",
+        "estrellas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:05:38.104Z"
+    },
+    {
+      "id": "vid-vertical-neon-90",
+      "type": "videos",
+      "name": "Vertical Neon -",
+      "folder": "",
+      "fileName": "vertical-neon.mp4",
+      "relativePath": "videos/vertical-neon.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/vertical-neon.mp4",
+      "sizeBytes": 219594,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "luces",
+        "neon",
+        "destellos"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:05:38.108Z"
+    },
+    {
+      "id": "vid-gray-waves-motion-background-zyl8-dzzh-91",
+      "type": "videos",
+      "name": "gray waves motion background ZyL8 DZZH",
+      "folder": "",
+      "fileName": "gray-waves-motion-background-zyl8-dzzh.mp4",
+      "relativePath": "videos/gray-waves-motion-background-zyl8-dzzh.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/gray-waves-motion-background-zyl8-dzzh.mp4",
+      "sizeBytes": 2860329,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "luces",
+        "rayos",
+        "destellos"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:05:38.112Z"
+    },
+    {
+      "id": "vid-video-background-92",
+      "type": "videos",
+      "name": "Video, Background, , , ,",
+      "folder": "",
+      "fileName": "video-background.mp4",
+      "relativePath": "videos/video-background.mp4",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/videos/video-background.mp4",
+      "sizeBytes": 9036664,
+      "tags": [
+        "video",
+        "loop",
+        "fondo",
+        "abstracto",
+        "verde",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:05:38.116Z"
+    },
+    {
+      "id": "logo-ipuc-blanco",
+      "type": "logos",
+      "name": "Logo IPUC Blanco (Para Fondo Oscuro)",
+      "folder": "logos-ipuc",
+      "fileName": "ipuc-blanco.png",
+      "relativePath": "logos/logos-ipuc/ipuc-blanco.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/logos/logos-ipuc/ipuc-blanco.png",
+      "sizeBytes": 225266,
+      "tags": [
+        "logo",
+        "ipuc",
+        "blanco",
+        "oficial"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:21:53.511Z"
+    },
+    {
+      "id": "logo-ipuc-color-fondo-claro",
+      "type": "logos",
+      "name": "Logo IPUC Color Oficial (Para Fondo Claro)",
+      "folder": "logos-ipuc",
+      "fileName": "ipuc-color-fondo-claro.png",
+      "relativePath": "logos/logos-ipuc/ipuc-color-fondo-claro.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/logos/logos-ipuc/ipuc-color-fondo-claro.png",
+      "sizeBytes": 417076,
+      "tags": [
+        "logo",
+        "ipuc",
+        "color",
+        "oficial"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:21:53.519Z"
+    },
+    {
+      "id": "logo-ipuc-color-fondo-oscuro",
+      "type": "logos",
+      "name": "Logo IPUC Color Oficial (Para Fondo Oscuro)",
+      "folder": "logos-ipuc",
+      "fileName": "ipuc-color-fondo-oscuro.png",
+      "relativePath": "logos/logos-ipuc/ipuc-color-fondo-oscuro.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/logos/logos-ipuc/ipuc-color-fondo-oscuro.png",
+      "sizeBytes": 416405,
+      "tags": [
+        "logo",
+        "ipuc",
+        "color",
+        "oficial"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:21:53.528Z"
+    },
+    {
+      "id": "logo-ipuc-marca-de-agua",
+      "type": "logos",
+      "name": "Logo IPUC Marca de Agua (Transparente)",
+      "folder": "logos-ipuc",
+      "fileName": "ipuc-marca-de-agua.png",
+      "relativePath": "logos/logos-ipuc/ipuc-marca-de-agua.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/logos/logos-ipuc/ipuc-marca-de-agua.png",
+      "sizeBytes": 235473,
+      "tags": [
+        "logo",
+        "ipuc",
+        "marca-de-agua",
+        "transparente",
+        "oficial"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:21:53.534Z"
+    },
+    {
+      "id": "logo-ipuc-negro",
+      "type": "logos",
+      "name": "Logo IPUC Negro (Monocromático)",
+      "folder": "logos-ipuc",
+      "fileName": "ipuc-negro.png",
+      "relativePath": "logos/logos-ipuc/ipuc-negro.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/logos/logos-ipuc/ipuc-negro.png",
+      "sizeBytes": 240605,
+      "tags": [
+        "logo",
+        "ipuc",
+        "negro",
+        "oficial"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:21:53.540Z"
+    },
+    {
+      "id": "bg-anillos-neon-cosmicos-en-azul-y-purpura-1",
+      "type": "backgrounds",
+      "name": "Anillos neón cósmicos en azul y púrpura",
+      "folder": "",
+      "fileName": "anillos-neon-cosmicos-en-azul-y-purpura.png",
+      "relativePath": "backgrounds/anillos-neon-cosmicos-en-azul-y-purpura.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/anillos-neon-cosmicos-en-azul-y-purpura.png",
+      "sizeBytes": 1551797,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "morado",
+        "neon",
+        "espacio",
+        "jovenes"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.615Z"
+    },
+    {
+      "id": "bg-aurora-nebulosa-verde-y-violeta-2",
+      "type": "backgrounds",
+      "name": "Aurora Nebulosa Verde y Violeta",
+      "folder": "",
+      "fileName": "aurora-nebulosa-verde-y-violeta.png",
+      "relativePath": "backgrounds/aurora-nebulosa-verde-y-violeta.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/aurora-nebulosa-verde-y-violeta.png",
+      "sizeBytes": 1848307,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "morado",
+        "verde",
+        "espacio",
+        "aurora",
+        "jovenes"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.631Z"
+    },
+    {
+      "id": "bg-cielo-crepuscular-de-tonos-purpura-3",
+      "type": "backgrounds",
+      "name": "Cielo crepuscular de tonos púrpura",
+      "folder": "",
+      "fileName": "cielo-crepuscular-de-tonos-purpura.png",
+      "relativePath": "backgrounds/cielo-crepuscular-de-tonos-purpura.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/cielo-crepuscular-de-tonos-purpura.png",
+      "sizeBytes": 1558473,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "morado",
+        "cielo",
+        "adoracion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.643Z"
+    },
+    {
+      "id": "bg-escenario-etereo-de-niebla-purpura-4",
+      "type": "backgrounds",
+      "name": "Escenario etéreo de niebla púrpura",
+      "folder": "",
+      "fileName": "escenario-etereo-de-niebla-purpura.png",
+      "relativePath": "backgrounds/escenario-etereo-de-niebla-purpura.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/escenario-etereo-de-niebla-purpura.png",
+      "sizeBytes": 1664456,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "morado",
+        "niebla",
+        "etereo",
+        "adoracion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.659Z"
+    },
+    {
+      "id": "bg-fondo-abstracto-de-luz-dorada-y-borgona-5",
+      "type": "backgrounds",
+      "name": "Fondo abstracto de luz dorada y borgoña",
+      "folder": "",
+      "fileName": "fondo-abstracto-de-luz-dorada-y-borgona.png",
+      "relativePath": "backgrounds/fondo-abstracto-de-luz-dorada-y-borgona.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/fondo-abstracto-de-luz-dorada-y-borgona.png",
+      "sizeBytes": 1672919,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "dorado",
+        "abstracto",
+        "adoracion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.670Z"
+    },
+    {
+      "id": "bg-fondo-abstracto-de-luz-turquesa-y-azul-6",
+      "type": "backgrounds",
+      "name": "Fondo abstracto de luz turquesa y azul",
+      "folder": "",
+      "fileName": "fondo-abstracto-de-luz-turquesa-y-azul.png",
+      "relativePath": "backgrounds/fondo-abstracto-de-luz-turquesa-y-azul.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/fondo-abstracto-de-luz-turquesa-y-azul.png",
+      "sizeBytes": 1623847,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "turquesa",
+        "abstracto"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.688Z"
+    },
+    {
+      "id": "bg-fondo-azul-oscuro-con-niebla-sutil-7",
+      "type": "backgrounds",
+      "name": "Fondo azul oscuro con niebla sutil",
+      "folder": "",
+      "fileName": "fondo-azul-oscuro-con-niebla-sutil.png",
+      "relativePath": "backgrounds/fondo-azul-oscuro-con-niebla-sutil.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/fondo-azul-oscuro-con-niebla-sutil.png",
+      "sizeBytes": 1838165,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "oscuro",
+        "niebla"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.700Z"
+    },
+    {
+      "id": "bg-fondo-cinematico-de-bokeh-dorado-8",
+      "type": "backgrounds",
+      "name": "Fondo Cinemático de Bokeh Dorado",
+      "folder": "",
+      "fileName": "fondo-cinematico-de-bokeh-dorado.png",
+      "relativePath": "backgrounds/fondo-cinematico-de-bokeh-dorado.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/fondo-cinematico-de-bokeh-dorado.png",
+      "sizeBytes": 1774082,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "dorado",
+        "bokeh",
+        "adoracion",
+        "elegante"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.717Z"
+    },
+    {
+      "id": "bg-fondo-de-concreto-oscuro-y-atmosferico-9",
+      "type": "backgrounds",
+      "name": "Fondo de concreto oscuro y atmosférico",
+      "folder": "",
+      "fileName": "fondo-de-concreto-oscuro-y-atmosferico.png",
+      "relativePath": "backgrounds/fondo-de-concreto-oscuro-y-atmosferico.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/fondo-de-concreto-oscuro-y-atmosferico.png",
+      "sizeBytes": 3017491,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "oscuro",
+        "textura"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.734Z"
+    },
+    {
+      "id": "bg-fondo-de-escenario-esmeralda-brumoso-10",
+      "type": "backgrounds",
+      "name": "Fondo de escenario esmeralda brumoso",
+      "folder": "",
+      "fileName": "fondo-de-escenario-esmeralda-brumoso.png",
+      "relativePath": "backgrounds/fondo-de-escenario-esmeralda-brumoso.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/fondo-de-escenario-esmeralda-brumoso.png",
+      "sizeBytes": 1732650,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "verde",
+        "niebla"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.750Z"
+    },
+    {
+      "id": "bg-fondo-de-estudio-minimalista-en-negro-y-gris-11",
+      "type": "backgrounds",
+      "name": "Fondo de estudio minimalista en negro y gris",
+      "folder": "",
+      "fileName": "fondo-de-estudio-minimalista-en-negro-y-gris.png",
+      "relativePath": "backgrounds/fondo-de-estudio-minimalista-en-negro-y-gris.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/fondo-de-estudio-minimalista-en-negro-y-gris.png",
+      "sizeBytes": 1949907,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "oscuro",
+        "gris"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.770Z"
+    },
+    {
+      "id": "bg-fondo-de-pergamino-antiguo-sepia-12",
+      "type": "backgrounds",
+      "name": "Fondo de pergamino antiguo sepia",
+      "folder": "",
+      "fileName": "fondo-de-pergamino-antiguo-sepia.png",
+      "relativePath": "backgrounds/fondo-de-pergamino-antiguo-sepia.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/fondo-de-pergamino-antiguo-sepia.png",
+      "sizeBytes": 2688196,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "sepia",
+        "vintage",
+        "textura",
+        "elegante"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.789Z"
+    },
+    {
+      "id": "bg-fondo-etereo-de-ondas-pastel-13",
+      "type": "backgrounds",
+      "name": "Fondo etéreo de ondas pastel",
+      "folder": "",
+      "fileName": "fondo-etereo-de-ondas-pastel.png",
+      "relativePath": "backgrounds/fondo-etereo-de-ondas-pastel.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/fondo-etereo-de-ondas-pastel.png",
+      "sizeBytes": 1469495,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "pastel",
+        "etereo",
+        "ondas",
+        "adoracion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.804Z"
+    },
+    {
+      "id": "bg-fondo-etereo-de-tinta-dorada-y-azul-14",
+      "type": "backgrounds",
+      "name": "Fondo etéreo de tinta dorada y azul",
+      "folder": "",
+      "fileName": "fondo-etereo-de-tinta-dorada-y-azul.png",
+      "relativePath": "backgrounds/fondo-etereo-de-tinta-dorada-y-azul.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/fondo-etereo-de-tinta-dorada-y-azul.png",
+      "sizeBytes": 2005272,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "dorado",
+        "etereo",
+        "fluido",
+        "adoracion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.817Z"
+    },
+    {
+      "id": "bg-fondo-geometrico-azul-cristalino-15",
+      "type": "backgrounds",
+      "name": "Fondo geométrico azul cristalino",
+      "folder": "",
+      "fileName": "fondo-geometrico-azul-cristalino.png",
+      "relativePath": "backgrounds/fondo-geometrico-azul-cristalino.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/fondo-geometrico-azul-cristalino.png",
+      "sizeBytes": 1492883,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "geometrico",
+        "cristal"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.827Z"
+    },
+    {
+      "id": "bg-fondo-tecnologico-azul-y-violeta-16",
+      "type": "backgrounds",
+      "name": "Fondo tecnológico azul y violeta",
+      "folder": "",
+      "fileName": "fondo-tecnologico-azul-y-violeta.png",
+      "relativePath": "backgrounds/fondo-tecnologico-azul-y-violeta.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/fondo-tecnologico-azul-y-violeta.png",
+      "sizeBytes": 1625522,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "morado",
+        "tecnologia",
+        "jovenes"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.837Z"
+    },
+    {
+      "id": "bg-marmol-negro-con-vetas-doradas-17",
+      "type": "backgrounds",
+      "name": "Mármol negro con vetas doradas",
+      "folder": "",
+      "fileName": "marmol-negro-con-vetas-doradas.png",
+      "relativePath": "backgrounds/marmol-negro-con-vetas-doradas.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/marmol-negro-con-vetas-doradas.png",
+      "sizeBytes": 2035034,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "dorado",
+        "oscuro",
+        "marmol",
+        "elegante",
+        "adoracion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.850Z"
+    },
+    {
+      "id": "bg-neblina-celestial-azul-y-violeta-18",
+      "type": "backgrounds",
+      "name": "Neblina Celestial Azul y Violeta",
+      "folder": "",
+      "fileName": "neblina-celestial-azul-y-violeta.png",
+      "relativePath": "backgrounds/neblina-celestial-azul-y-violeta.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/neblina-celestial-azul-y-violeta.png",
+      "sizeBytes": 1673685,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "morado",
+        "espacio",
+        "jovenes"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.865Z"
+    },
+    {
+      "id": "bg-nebulosa-de-humo-cian-y-magenta-19",
+      "type": "backgrounds",
+      "name": "Nebulosa de humo cian y magenta",
+      "folder": "",
+      "fileName": "nebulosa-de-humo-cian-y-magenta.png",
+      "relativePath": "backgrounds/nebulosa-de-humo-cian-y-magenta.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/nebulosa-de-humo-cian-y-magenta.png",
+      "sizeBytes": 1979294,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "morado",
+        "espacio",
+        "niebla",
+        "jovenes"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.877Z"
+    },
+    {
+      "id": "bg-ondas-de-cristal-en-nebulosa-eterea-20",
+      "type": "backgrounds",
+      "name": "Ondas de cristal en nebulosa etérea",
+      "folder": "",
+      "fileName": "ondas-de-cristal-en-nebulosa-eterea.png",
+      "relativePath": "backgrounds/ondas-de-cristal-en-nebulosa-eterea.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/ondas-de-cristal-en-nebulosa-eterea.png",
+      "sizeBytes": 1643862,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "espacio",
+        "ondas",
+        "cristal",
+        "jovenes"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.890Z"
+    },
+    {
+      "id": "bg-ondas-de-luz-en-degradado-abstracto-21",
+      "type": "backgrounds",
+      "name": "Ondas de luz en degradado abstracto",
+      "folder": "",
+      "fileName": "ondas-de-luz-en-degradado-abstracto.png",
+      "relativePath": "backgrounds/ondas-de-luz-en-degradado-abstracto.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/ondas-de-luz-en-degradado-abstracto.png",
+      "sizeBytes": 1479695,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "ondas",
+        "abstracto"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.901Z"
+    },
+    {
+      "id": "bg-ondas-sedosas-en-azul-y-purpura-22",
+      "type": "backgrounds",
+      "name": "Ondas Sedosas en Azul y Púrpura",
+      "folder": "",
+      "fileName": "ondas-sedosas-en-azul-y-purpura.png",
+      "relativePath": "backgrounds/ondas-sedosas-en-azul-y-purpura.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/ondas-sedosas-en-azul-y-purpura.png",
+      "sizeBytes": 1703935,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "morado",
+        "ondas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.913Z"
+    },
+    {
+      "id": "bg-rayos-dorados-en-un-mar-de-azul-23",
+      "type": "backgrounds",
+      "name": "Rayos Dorados en un Mar de Azul",
+      "folder": "",
+      "fileName": "rayos-dorados-en-un-mar-de-azul.png",
+      "relativePath": "backgrounds/rayos-dorados-en-un-mar-de-azul.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/rayos-dorados-en-un-mar-de-azul.png",
+      "sizeBytes": 1867393,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "dorado",
+        "rayos",
+        "adoracion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.926Z"
+    },
+    {
+      "id": "bg-remolino-fluido-coral-y-azul-24",
+      "type": "backgrounds",
+      "name": "Remolino fluido coral y azul",
+      "folder": "",
+      "fileName": "remolino-fluido-coral-y-azul.png",
+      "relativePath": "backgrounds/remolino-fluido-coral-y-azul.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/remolino-fluido-coral-y-azul.png",
+      "sizeBytes": 2153756,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "coral",
+        "fluido"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.944Z"
+    },
+    {
+      "id": "bg-resplandor-azul-entre-niebla-25",
+      "type": "backgrounds",
+      "name": "Resplandor azul entre niebla",
+      "folder": "",
+      "fileName": "resplandor-azul-entre-niebla.png",
+      "relativePath": "backgrounds/resplandor-azul-entre-niebla.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/resplandor-azul-entre-niebla.png",
+      "sizeBytes": 1539337,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "niebla",
+        "resplandor"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.957Z"
+    },
+    {
+      "id": "bg-resplandor-celestial-entre-nubes-azules-26",
+      "type": "backgrounds",
+      "name": "Resplandor celestial entre nubes azules",
+      "folder": "",
+      "fileName": "resplandor-celestial-entre-nubes-azules.png",
+      "relativePath": "backgrounds/resplandor-celestial-entre-nubes-azules.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/resplandor-celestial-entre-nubes-azules.png",
+      "sizeBytes": 1741425,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "espacio",
+        "cielo",
+        "resplandor",
+        "adoracion",
+        "jovenes"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.969Z"
+    },
+    {
+      "id": "bg-resplandor-dorado-en-la-oscuridad-27",
+      "type": "backgrounds",
+      "name": "Resplandor dorado en la oscuridad",
+      "folder": "",
+      "fileName": "resplandor-dorado-en-la-oscuridad.png",
+      "relativePath": "backgrounds/resplandor-dorado-en-la-oscuridad.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/resplandor-dorado-en-la-oscuridad.png",
+      "sizeBytes": 1153890,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "dorado",
+        "oscuro",
+        "resplandor",
+        "adoracion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.979Z"
+    },
+    {
+      "id": "bg-resplandor-dorado-entre-niebla-y-destellos-28",
+      "type": "backgrounds",
+      "name": "Resplandor dorado entre niebla y destellos",
+      "folder": "",
+      "fileName": "resplandor-dorado-entre-niebla-y-destellos.png",
+      "relativePath": "backgrounds/resplandor-dorado-entre-niebla-y-destellos.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/resplandor-dorado-entre-niebla-y-destellos.png",
+      "sizeBytes": 1828355,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "dorado",
+        "niebla",
+        "resplandor",
+        "adoracion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:52.993Z"
+    },
+    {
+      "id": "bg-resplandor-dorado-sobre-azul-profundo-29",
+      "type": "backgrounds",
+      "name": "Resplandor dorado sobre azul profundo",
+      "folder": "",
+      "fileName": "resplandor-dorado-sobre-azul-profundo.png",
+      "relativePath": "backgrounds/resplandor-dorado-sobre-azul-profundo.png",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/resplandor-dorado-sobre-azul-profundo.png",
+      "sizeBytes": 1987338,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "azul",
+        "dorado",
+        "resplandor",
+        "adoracion"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:53.006Z"
+    },
+    {
+      "id": "bg-cordillera-al-atardecer-panoramica-30",
+      "type": "backgrounds",
+      "name": "Cordillera al Atardecer - Panorámica",
+      "folder": "",
+      "fileName": "cordillera-al-atardecer-panoramica.jpg",
+      "relativePath": "backgrounds/cordillera-al-atardecer-panoramica.jpg",
+      "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/backgrounds/cordillera-al-atardecer-panoramica.jpg",
+      "sizeBytes": 1684679,
+      "tags": [
+        "fondo",
+        "imagen",
+        "hd",
+        "naturaleza",
+        "montaña"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:23:53.021Z"
+    },
+    {
+      "id": "fnt-solomon-deco",
+      "type": "fonts",
+      "name": "Solomon Deco",
+      "folderName": "Solomon Deco",
+      "variantsCount": 5,
+      "files": [
+        {
+          "fileName": "Solomon Deco - bold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 36196,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Solomon%20Deco/Solomon%20Deco%20-%20bold.ttf"
+        },
+        {
+          "fileName": "Solomon Deco - book.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 36568,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Solomon%20Deco/Solomon%20Deco%20-%20book.ttf"
+        },
+        {
+          "fileName": "Solomon Deco - light.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 36872,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Solomon%20Deco/Solomon%20Deco%20-%20light.ttf"
+        },
+        {
+          "fileName": "Solomon Deco - normal.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 35900,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Solomon%20Deco/Solomon%20Deco%20-%20normal.ttf"
+        },
+        {
+          "fileName": "Solomon Deco - thin.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 36068,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Solomon%20Deco/Solomon%20Deco%20-%20thin.ttf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "elegante",
+        "art-deco",
+        "titulares"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.077Z"
+    },
+    {
+      "id": "fnt-avigea",
+      "type": "fonts",
+      "name": "Avigea",
+      "folderName": "Avigea",
+      "variantsCount": 2,
+      "files": [
+        {
+          "fileName": "Avigea Italic.otf",
+          "ext": ".otf",
+          "sizeBytes": 46300,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Avigea/Avigea%20Italic.otf"
+        },
+        {
+          "fileName": "Avigea.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 44868,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Avigea/Avigea.ttf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "moda",
+        "alta-gama",
+        "elegante"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.103Z"
+    },
+    {
+      "id": "fnt-trajan-pro-3",
+      "type": "fonts",
+      "name": "Trajan Pro 3",
+      "folderName": "Trajan Pro 3",
+      "variantsCount": 2,
+      "files": [
+        {
+          "fileName": "TrajanPro3-Bold.otf",
+          "ext": ".otf",
+          "sizeBytes": 206424,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Trajan%20Pro%203/TrajanPro3-Bold.otf"
+        },
+        {
+          "fileName": "TrajanPro3-Regular.otf",
+          "ext": ".otf",
+          "sizeBytes": 181288,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Trajan%20Pro%203/TrajanPro3-Regular.otf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "solemne",
+        "imperial",
+        "clasico",
+        "serif"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.120Z"
+    },
+    {
+      "id": "fnt-bodoni-mt",
+      "type": "fonts",
+      "name": "Bodoni MT",
+      "folderName": "Bodoni MT",
+      "variantsCount": 11,
+      "files": [
+        {
+          "fileName": "BOD_B.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 74440,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bodoni%20MT/BOD_B.TTF"
+        },
+        {
+          "fileName": "BOD_BI.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 85308,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bodoni%20MT/BOD_BI.TTF"
+        },
+        {
+          "fileName": "BOD_BLAI.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 83816,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bodoni%20MT/BOD_BLAI.TTF"
+        },
+        {
+          "fileName": "BOD_BLAR.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 73616,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bodoni%20MT/BOD_BLAR.TTF"
+        },
+        {
+          "fileName": "BOD_CB.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 74092,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bodoni%20MT/BOD_CB.TTF"
+        },
+        {
+          "fileName": "BOD_CBI.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 81072,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bodoni%20MT/BOD_CBI.TTF"
+        },
+        {
+          "fileName": "BOD_CI.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 80536,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bodoni%20MT/BOD_CI.TTF"
+        },
+        {
+          "fileName": "BOD_CR.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 80580,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bodoni%20MT/BOD_CR.TTF"
+        },
+        {
+          "fileName": "BOD_I.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 89940,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bodoni%20MT/BOD_I.TTF"
+        },
+        {
+          "fileName": "BOD_PSTC.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 91592,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bodoni%20MT/BOD_PSTC.TTF"
+        },
+        {
+          "fileName": "BOD_R.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 77884,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bodoni%20MT/BOD_R.TTF"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "editorial",
+        "alto-contraste",
+        "serif",
+        "titulares"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.214Z"
+    },
+    {
+      "id": "fnt-perpetua-titling-mt",
+      "type": "fonts",
+      "name": "Perpetua Titling MT",
+      "folderName": "Perpetua Titling MT",
+      "variantsCount": 2,
+      "files": [
+        {
+          "fileName": "PERTIBD.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 48320,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Perpetua%20Titling%20MT/PERTIBD.TTF"
+        },
+        {
+          "fileName": "PERTILI.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 43800,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Perpetua%20Titling%20MT/PERTILI.TTF"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "clasica",
+        "formal",
+        "titulares",
+        "mayusculas"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.232Z"
+    },
+    {
+      "id": "fnt-chaparral-pro",
+      "type": "fonts",
+      "name": "Chaparral Pro",
+      "folderName": "Chaparral Pro",
+      "variantsCount": 5,
+      "files": [
+        {
+          "fileName": "ChaparralPro-Bold.otf",
+          "ext": ".otf",
+          "sizeBytes": 126008,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Chaparral%20Pro/ChaparralPro-Bold.otf"
+        },
+        {
+          "fileName": "ChaparralPro-BoldIt.otf",
+          "ext": ".otf",
+          "sizeBytes": 125632,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Chaparral%20Pro/ChaparralPro-BoldIt.otf"
+        },
+        {
+          "fileName": "ChaparralPro-Italic.otf",
+          "ext": ".otf",
+          "sizeBytes": 128628,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Chaparral%20Pro/ChaparralPro-Italic.otf"
+        },
+        {
+          "fileName": "ChaparralPro-LightIt.otf",
+          "ext": ".otf",
+          "sizeBytes": 125688,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Chaparral%20Pro/ChaparralPro-LightIt.otf"
+        },
+        {
+          "fileName": "ChaparralPro-Regular.otf",
+          "ext": ".otf",
+          "sizeBytes": 127864,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Chaparral%20Pro/ChaparralPro-Regular.otf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "slab-serif",
+        "sofisticada",
+        "lectura"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.270Z"
+    },
+    {
+      "id": "fnt-nueva-std",
+      "type": "fonts",
+      "name": "Nueva Std",
+      "folderName": "Nueva Std",
+      "variantsCount": 4,
+      "files": [
+        {
+          "fileName": "NuevaStd-Bold.otf",
+          "ext": ".otf",
+          "sizeBytes": 58640,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nueva%20Std/NuevaStd-Bold.otf"
+        },
+        {
+          "fileName": "NuevaStd-BoldCond.otf",
+          "ext": ".otf",
+          "sizeBytes": 57172,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nueva%20Std/NuevaStd-BoldCond.otf"
+        },
+        {
+          "fileName": "NuevaStd-Cond.otf",
+          "ext": ".otf",
+          "sizeBytes": 57972,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nueva%20Std/NuevaStd-Cond.otf"
+        },
+        {
+          "fileName": "NuevaStd-Italic.otf",
+          "ext": ".otf",
+          "sizeBytes": 58472,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nueva%20Std/NuevaStd-Italic.otf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "display",
+        "contemporanea",
+        "creativo"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.298Z"
+    },
+    {
+      "id": "fnt-champagne-limousines",
+      "type": "fonts",
+      "name": "Champagne & Limousines",
+      "folderName": "Champagne & Limousines",
+      "variantsCount": 4,
+      "files": [
+        {
+          "fileName": "Champagne & Limousines Bold Italic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 106988,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Champagne%20%26%20Limousines/Champagne%20%26%20Limousines%20Bold%20Italic.ttf"
+        },
+        {
+          "fileName": "Champagne & Limousines Bold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 87860,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Champagne%20%26%20Limousines/Champagne%20%26%20Limousines%20Bold.ttf"
+        },
+        {
+          "fileName": "Champagne & Limousines Italic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 109992,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Champagne%20%26%20Limousines/Champagne%20%26%20Limousines%20Italic.ttf"
+        },
+        {
+          "fileName": "Champagne & Limousines.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 97960,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Champagne%20%26%20Limousines/Champagne%20%26%20Limousines.ttf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "geometrica",
+        "minimalista",
+        "moderno",
+        "delgada"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.327Z"
+    },
+    {
+      "id": "fnt-glober",
+      "type": "fonts",
+      "name": "Glober",
+      "folderName": "Glober",
+      "variantsCount": 5,
+      "files": [
+        {
+          "fileName": "Fontfabric - GloberBlackItalic.otf",
+          "ext": ".otf",
+          "sizeBytes": 140568,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Glober/Fontfabric%20-%20GloberBlackItalic.otf"
+        },
+        {
+          "fileName": "Fontfabric - GloberBookItalic.otf",
+          "ext": ".otf",
+          "sizeBytes": 138860,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Glober/Fontfabric%20-%20GloberBookItalic.otf"
+        },
+        {
+          "fileName": "Fontfabric - GloberLight.otf",
+          "ext": ".otf",
+          "sizeBytes": 134372,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Glober/Fontfabric%20-%20GloberLight.otf"
+        },
+        {
+          "fileName": "Fontfabric - GloberSemiBoldItalic.otf",
+          "ext": ".otf",
+          "sizeBytes": 139624,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Glober/Fontfabric%20-%20GloberSemiBoldItalic.otf"
+        },
+        {
+          "fileName": "Fontfabric - GloberxBold.otf",
+          "ext": ".otf",
+          "sizeBytes": 144192,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Glober/Fontfabric%20-%20GloberxBold.otf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "grotesca",
+        "suiza",
+        "moderno",
+        "versatil"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.373Z"
+    },
+    {
+      "id": "fnt-code-pro",
+      "type": "fonts",
+      "name": "Code Pro",
+      "folderName": "Code Pro",
+      "variantsCount": 7,
+      "files": [
+        {
+          "fileName": "CODE Bold.otf",
+          "ext": ".otf",
+          "sizeBytes": 24108,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Code%20Pro/CODE%20Bold.otf"
+        },
+        {
+          "fileName": "Code Pro Bold LC.otf",
+          "ext": ".otf",
+          "sizeBytes": 67896,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Code%20Pro/Code%20Pro%20Bold%20LC.otf"
+        },
+        {
+          "fileName": "Code Pro Light Demo.otf",
+          "ext": ".otf",
+          "sizeBytes": 18956,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Code%20Pro/Code%20Pro%20Light%20Demo.otf"
+        },
+        {
+          "fileName": "Code Pro Light LC.otf",
+          "ext": ".otf",
+          "sizeBytes": 70292,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Code%20Pro/Code%20Pro%20Light%20LC.otf"
+        },
+        {
+          "fileName": "Code Pro Light.otf",
+          "ext": ".otf",
+          "sizeBytes": 69380,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Code%20Pro/Code%20Pro%20Light.otf"
+        },
+        {
+          "fileName": "Li-Saboj Charulota Unicode Bold Italic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 231264,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Code%20Pro/Li-Saboj%20Charulota%20Unicode%20Bold%20Italic.ttf"
+        },
+        {
+          "fileName": "Li-Saboj Charulota Unicode Bold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 224300,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Code%20Pro/Li-Saboj%20Charulota%20Unicode%20Bold.ttf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "arquitectonica",
+        "moderno",
+        "geometrica",
+        "titulares"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.419Z"
+    },
+    {
+      "id": "fnt-gabriel-sans",
+      "type": "fonts",
+      "name": "Gabriel Sans",
+      "folderName": "Gabriel Sans",
+      "variantsCount": 9,
+      "files": [
+        {
+          "fileName": "Gabriel-Sans-Black-Italic.otf",
+          "ext": ".otf",
+          "sizeBytes": 36052,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Gabriel%20Sans/Gabriel-Sans-Black-Italic.otf"
+        },
+        {
+          "fileName": "Gabriel-Sans-Black.otf",
+          "ext": ".otf",
+          "sizeBytes": 36164,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Gabriel%20Sans/Gabriel-Sans-Black.otf"
+        },
+        {
+          "fileName": "Gabriel-Sans-Bold.otf",
+          "ext": ".otf",
+          "sizeBytes": 30780,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Gabriel%20Sans/Gabriel-Sans-Bold.otf"
+        },
+        {
+          "fileName": "Gabriel-Sans-Cond-Black-Italic.otf",
+          "ext": ".otf",
+          "sizeBytes": 49412,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Gabriel%20Sans/Gabriel-Sans-Cond-Black-Italic.otf"
+        },
+        {
+          "fileName": "Gabriel-Sans-Cond-Bold.otf",
+          "ext": ".otf",
+          "sizeBytes": 29660,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Gabriel%20Sans/Gabriel-Sans-Cond-Bold.otf"
+        },
+        {
+          "fileName": "Gabriel-Sans-Cond-Light.otf",
+          "ext": ".otf",
+          "sizeBytes": 26992,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Gabriel%20Sans/Gabriel-Sans-Cond-Light.otf"
+        },
+        {
+          "fileName": "Gabriel-Sans-Cond-Normal-Italic.otf",
+          "ext": ".otf",
+          "sizeBytes": 26908,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Gabriel%20Sans/Gabriel-Sans-Cond-Normal-Italic.otf"
+        },
+        {
+          "fileName": "Gabriel-Sans-Light-Italic.otf",
+          "ext": ".otf",
+          "sizeBytes": 26860,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Gabriel%20Sans/Gabriel-Sans-Light-Italic.otf"
+        },
+        {
+          "fileName": "Gabriel-Sans-Light.otf",
+          "ext": ".otf",
+          "sizeBytes": 26920,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Gabriel%20Sans/Gabriel-Sans-Light.otf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "nordica",
+        "contemporanea",
+        "limpia",
+        "moderno"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.463Z"
+    },
+    {
+      "id": "fnt-bakemono-stereo",
+      "type": "fonts",
+      "name": "Bakemono Stereo",
+      "folderName": "Bakemono Stereo",
+      "variantsCount": 7,
+      "files": [
+        {
+          "fileName": "Bakemono-Stereo-Bold-trial.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 110036,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bakemono%20Stereo/Bakemono-Stereo-Bold-trial.ttf"
+        },
+        {
+          "fileName": "Bakemono-Stereo-Extrabold-trial.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 120056,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bakemono%20Stereo/Bakemono-Stereo-Extrabold-trial.ttf"
+        },
+        {
+          "fileName": "Bakemono-Stereo-Extralight-trial.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 103420,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bakemono%20Stereo/Bakemono-Stereo-Extralight-trial.ttf"
+        },
+        {
+          "fileName": "Bakemono-Stereo-Light-trial.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 106100,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bakemono%20Stereo/Bakemono-Stereo-Light-trial.ttf"
+        },
+        {
+          "fileName": "Bakemono-Stereo-Medium-trial.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 108704,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bakemono%20Stereo/Bakemono-Stereo-Medium-trial.ttf"
+        },
+        {
+          "fileName": "Bakemono-Stereo-Regular-trial.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 108336,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bakemono%20Stereo/Bakemono-Stereo-Regular-trial.ttf"
+        },
+        {
+          "fileName": "Bakemono-Stereo-Thin-trial.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 104680,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bakemono%20Stereo/Bakemono-Stereo-Thin-trial.ttf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "brutalismo",
+        "vanguardia",
+        "bold",
+        "impacto"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.517Z"
+    },
+    {
+      "id": "fnt-century-gothic",
+      "type": "fonts",
+      "name": "Century Gothic",
+      "folderName": "Century Gothic",
+      "variantsCount": 4,
+      "files": [
+        {
+          "fileName": "GOTHIC.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 137568,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Century%20Gothic/GOTHIC.TTF"
+        },
+        {
+          "fileName": "GOTHICB.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 129676,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Century%20Gothic/GOTHICB.TTF"
+        },
+        {
+          "fileName": "GOTHICBI.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 139084,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Century%20Gothic/GOTHICBI.TTF"
+        },
+        {
+          "fileName": "GOTHICI.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 148520,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Century%20Gothic/GOTHICI.TTF"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "geometrica",
+        "limpia",
+        "redonda",
+        "moderno"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.555Z"
+    },
+    {
+      "id": "fnt-bebas-neue",
+      "type": "fonts",
+      "name": "Bebas Neue",
+      "folderName": "Bebas Neue",
+      "variantsCount": 14,
+      "files": [
+        {
+          "fileName": "Bebas-Regular.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 17408,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/Bebas-Regular.ttf"
+        },
+        {
+          "fileName": "BebasNeue Bold.otf",
+          "ext": ".otf",
+          "sizeBytes": 101772,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/BebasNeue%20Bold.otf"
+        },
+        {
+          "fileName": "BebasNeue Bold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 163180,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/BebasNeue%20Bold.ttf"
+        },
+        {
+          "fileName": "BebasNeue Book.otf",
+          "ext": ".otf",
+          "sizeBytes": 106516,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/BebasNeue%20Book.otf"
+        },
+        {
+          "fileName": "BebasNeue Book.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 164972,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/BebasNeue%20Book.ttf"
+        },
+        {
+          "fileName": "BebasNeue Light.otf",
+          "ext": ".otf",
+          "sizeBytes": 67176,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/BebasNeue%20Light.otf"
+        },
+        {
+          "fileName": "BebasNeue Light.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 130524,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/BebasNeue%20Light.ttf"
+        },
+        {
+          "fileName": "BebasNeue Regular.otf",
+          "ext": ".otf",
+          "sizeBytes": 70364,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/BebasNeue%20Regular.otf"
+        },
+        {
+          "fileName": "BebasNeue Regular.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 125640,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/BebasNeue%20Regular.ttf"
+        },
+        {
+          "fileName": "BebasNeue Thin.otf",
+          "ext": ".otf",
+          "sizeBytes": 46596,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/BebasNeue%20Thin.otf"
+        },
+        {
+          "fileName": "BebasNeue Thin.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 111556,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/BebasNeue%20Thin.ttf"
+        },
+        {
+          "fileName": "BebasNeue-Regular.otf",
+          "ext": ".otf",
+          "sizeBytes": 42200,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/BebasNeue-Regular.otf"
+        },
+        {
+          "fileName": "BEBAS__.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 36796,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/BEBAS__.TTF"
+        },
+        {
+          "fileName": "BEBAS___0.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 36796,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Bebas%20Neue/BEBAS___0.TTF"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "poster",
+        "impacto",
+        "titulares",
+        "condensada"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.698Z"
+    },
+    {
+      "id": "fnt-bignoodletitling",
+      "type": "fonts",
+      "name": "BigNoodleTitling",
+      "folderName": "BigNoodleTitling",
+      "variantsCount": 4,
+      "files": [
+        {
+          "fileName": "big_noodle_titling.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 26828,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/BigNoodleTitling/big_noodle_titling.ttf"
+        },
+        {
+          "fileName": "big_noodle_titling_0.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 26828,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/BigNoodleTitling/big_noodle_titling_0.ttf"
+        },
+        {
+          "fileName": "big_noodle_titling_oblique.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 27876,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/BigNoodleTitling/big_noodle_titling_oblique.ttf"
+        },
+        {
+          "fileName": "big_noodle_titling_oblique_0.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 27876,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/BigNoodleTitling/big_noodle_titling_oblique_0.ttf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "condensada",
+        "titulares",
+        "fuerte",
+        "impacto"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.735Z"
+    },
+    {
+      "id": "fnt-intro-cond-caps",
+      "type": "fonts",
+      "name": "Intro Cond Caps",
+      "folderName": "Intro Cond Caps",
+      "variantsCount": 3,
+      "files": [
+        {
+          "fileName": "Intro Cond Caps Bold.otf",
+          "ext": ".otf",
+          "sizeBytes": 49144,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Intro%20Cond%20Caps/Intro%20Cond%20Caps%20Bold.otf"
+        },
+        {
+          "fileName": "Intro Cond Caps SemiBold.otf",
+          "ext": ".otf",
+          "sizeBytes": 50152,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Intro%20Cond%20Caps/Intro%20Cond%20Caps%20SemiBold.otf"
+        },
+        {
+          "fileName": "Intro Cond Caps Thin.otf",
+          "ext": ".otf",
+          "sizeBytes": 50240,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Intro%20Cond%20Caps/Intro%20Cond%20Caps%20Thin.otf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "moderno",
+        "condensada",
+        "mayusculas",
+        "titulares"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.770Z"
+    },
+    {
+      "id": "fnt-american-captain",
+      "type": "fonts",
+      "name": "American Captain",
+      "folderName": "American Captain",
+      "variantsCount": 4,
+      "files": [
+        {
+          "fileName": "American Captain Patrius 02 FRE.otf",
+          "ext": ".otf",
+          "sizeBytes": 62672,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/American%20Captain/American%20Captain%20Patrius%2002%20FRE.otf"
+        },
+        {
+          "fileName": "American Captain Patrius 02 FRE.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 93500,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/American%20Captain/American%20Captain%20Patrius%2002%20FRE.ttf"
+        },
+        {
+          "fileName": "American Captain.otf",
+          "ext": ".otf",
+          "sizeBytes": 33252,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/American%20Captain/American%20Captain.otf"
+        },
+        {
+          "fileName": "American Captain.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 79484,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/American%20Captain/American%20Captain.ttf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "impacto",
+        "simetria",
+        "robusta",
+        "titulares"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.833Z"
+    },
+    {
+      "id": "fnt-braxton",
+      "type": "fonts",
+      "name": "Braxton",
+      "folderName": "Braxton",
+      "variantsCount": 2,
+      "files": [
+        {
+          "fileName": "Braxton Bold.otf",
+          "ext": ".otf",
+          "sizeBytes": 112920,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Braxton/Braxton%20Bold.otf"
+        },
+        {
+          "fileName": "Braxton Light.otf",
+          "ext": ".otf",
+          "sizeBytes": 100784,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Braxton/Braxton%20Light.otf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "pincel",
+        "brush",
+        "dinamico",
+        "manuscrita"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.864Z"
+    },
+    {
+      "id": "fnt-better-together",
+      "type": "fonts",
+      "name": "Better Together",
+      "folderName": "Better Together",
+      "variantsCount": 1,
+      "files": [
+        {
+          "fileName": "Better Together Script.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 137280,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Better%20Together/Better%20Together%20Script.ttf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "manuscrita",
+        "script",
+        "acento",
+        "elegante"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.878Z"
+    },
+    {
+      "id": "fnt-aston-script",
+      "type": "fonts",
+      "name": "Aston Script",
+      "folderName": "Aston Script",
+      "variantsCount": 1,
+      "files": [
+        {
+          "fileName": "Aston Script.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 161892,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Aston%20Script/Aston%20Script.ttf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "caligrafica",
+        "firma",
+        "script",
+        "elegante"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.906Z"
+    },
+    {
+      "id": "fnt-batuphat-script",
+      "type": "fonts",
+      "name": "Batuphat Script",
+      "folderName": "Batuphat Script",
+      "variantsCount": 2,
+      "files": [
+        {
+          "fileName": "Batuphat Script Extrude.otf",
+          "ext": ".otf",
+          "sizeBytes": 77468,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Batuphat%20Script/Batuphat%20Script%20Extrude.otf"
+        },
+        {
+          "fileName": "Batuphat Script.otf",
+          "ext": ".otf",
+          "sizeBytes": 70564,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Batuphat%20Script/Batuphat%20Script.otf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "lettering",
+        "urbano",
+        "script",
+        "jovenes"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:29.942Z"
+    },
+    {
+      "id": "fnt-nexa",
+      "type": "fonts",
+      "name": "Nexa",
+      "folderName": "Nexa",
+      "variantsCount": 8,
+      "files": [
+        {
+          "fileName": "Fontfabric - NexaSlab-Regular.otf",
+          "ext": ".otf",
+          "sizeBytes": 75384,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nexa/Fontfabric%20-%20NexaSlab-Regular.otf"
+        },
+        {
+          "fileName": "Fontfabric - NexaSlabBlack.otf",
+          "ext": ".otf",
+          "sizeBytes": 76656,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nexa/Fontfabric%20-%20NexaSlabBlack.otf"
+        },
+        {
+          "fileName": "Fontfabric - NexaSlabHeavyItalic.otf",
+          "ext": ".otf",
+          "sizeBytes": 78176,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nexa/Fontfabric%20-%20NexaSlabHeavyItalic.otf"
+        },
+        {
+          "fileName": "Fontfabric - NexaSlabxBoldOblique.otf",
+          "ext": ".otf",
+          "sizeBytes": 77316,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nexa/Fontfabric%20-%20NexaSlabxBoldOblique.otf"
+        },
+        {
+          "fileName": "Nexa Black Italic.otf",
+          "ext": ".otf",
+          "sizeBytes": 139988,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nexa/Nexa%20Black%20Italic.otf"
+        },
+        {
+          "fileName": "Nexa Heavy Italic.otf",
+          "ext": ".otf",
+          "sizeBytes": 145332,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nexa/Nexa%20Heavy%20Italic.otf"
+        },
+        {
+          "fileName": "Nexa Heavy.otf",
+          "ext": ".otf",
+          "sizeBytes": 139044,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nexa/Nexa%20Heavy.otf"
+        },
+        {
+          "fileName": "Nexa XBold Italic.otf",
+          "ext": ".otf",
+          "sizeBytes": 140852,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nexa/Nexa%20XBold%20Italic.otf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "geometrica",
+        "alta-gama",
+        "titulares",
+        "moderno"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:30.024Z"
+    },
+    {
+      "id": "fnt-nexa-rust",
+      "type": "fonts",
+      "name": "Nexa Rust",
+      "folderName": "Nexa Rust",
+      "variantsCount": 5,
+      "files": [
+        {
+          "fileName": "Fontfabric - Nexa Rust Extras Icons.otf",
+          "ext": ".otf",
+          "sizeBytes": 16056,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nexa%20Rust/Fontfabric%20-%20Nexa%20Rust%20Extras%20Icons.otf"
+        },
+        {
+          "fileName": "Fontfabric - Nexa Rust Handmade Condensed.otf",
+          "ext": ".otf",
+          "sizeBytes": 60720,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nexa%20Rust/Fontfabric%20-%20Nexa%20Rust%20Handmade%20Condensed.otf"
+        },
+        {
+          "fileName": "Fontfabric - Nexa Rust Sans Black.otf",
+          "ext": ".otf",
+          "sizeBytes": 137832,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nexa%20Rust/Fontfabric%20-%20Nexa%20Rust%20Sans%20Black.otf"
+        },
+        {
+          "fileName": "Fontfabric - Nexa Rust Script H Shadow.otf",
+          "ext": ".otf",
+          "sizeBytes": 178616,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nexa%20Rust/Fontfabric%20-%20Nexa%20Rust%20Script%20H%20Shadow.otf"
+        },
+        {
+          "fileName": "Fontfabric - Nexa Rust Slab Black Shadow.otf",
+          "ext": ".otf",
+          "sizeBytes": 234272,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Nexa%20Rust/Fontfabric%20-%20Nexa%20Rust%20Slab%20Black%20Shadow.otf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "rustica",
+        "textura",
+        "vintage",
+        "retro"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:30.114Z"
+    },
+    {
+      "id": "fnt-castorgate",
+      "type": "fonts",
+      "name": "Castorgate",
+      "folderName": "Castorgate",
+      "variantsCount": 6,
+      "files": [
+        {
+          "fileName": "CASTORD.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 108760,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Castorgate/CASTORD.ttf"
+        },
+        {
+          "fileName": "CASTORM.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 107332,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Castorgate/CASTORM.ttf"
+        },
+        {
+          "fileName": "CASTORR.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 81952,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Castorgate/CASTORR.ttf"
+        },
+        {
+          "fileName": "CASTORU.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 63116,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Castorgate/CASTORU.ttf"
+        },
+        {
+          "fileName": "CASTORW.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 65492,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Castorgate/CASTORW.ttf"
+        },
+        {
+          "fileName": "CASTOR_.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 63408,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Castorgate/CASTOR_.ttf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "neo-vintage",
+        "urbano",
+        "retro",
+        "titulares"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:30.193Z"
+    },
+    {
+      "id": "fnt-lemon-milk",
+      "type": "fonts",
+      "name": "Lemon Milk",
+      "folderName": "Lemon Milk",
+      "variantsCount": 1,
+      "files": [
+        {
+          "fileName": "LemonMilk.otf",
+          "ext": ".otf",
+          "sizeBytes": 17184,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Lemon%20Milk/LemonMilk.otf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "geometrica",
+        "titulares",
+        "fuerte",
+        "moderno"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:30.204Z"
+    },
+    {
+      "id": "fnt-coolvetica",
+      "type": "fonts",
+      "name": "Coolvetica",
+      "folderName": "Coolvetica",
+      "variantsCount": 1,
+      "files": [
+        {
+          "fileName": "COOLVETI.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 38828,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Coolvetica/COOLVETI.TTF"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "moderno",
+        "grotesca",
+        "titulares",
+        "helvetica"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:30.214Z"
+    },
+    {
+      "id": "fnt-agency-fb",
+      "type": "fonts",
+      "name": "Agency FB",
+      "folderName": "Agency FB",
+      "variantsCount": 2,
+      "files": [
+        {
+          "fileName": "AGENCYB.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 60656,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Agency%20FB/AGENCYB.TTF"
+        },
+        {
+          "fileName": "AGENCYR.TTF",
+          "ext": ".ttf",
+          "sizeBytes": 58920,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Agency%20FB/AGENCYR.TTF"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "numeros",
+        "fechas",
+        "impacto",
+        "condensada"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:30.241Z"
+    },
+    {
+      "id": "fnt-montserrat",
+      "type": "fonts",
+      "name": "Montserrat",
+      "folderName": "Montserrat",
+      "variantsCount": 18,
+      "files": [
+        {
+          "fileName": "Montserrat-Black.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 343296,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-Black.ttf"
+        },
+        {
+          "fileName": "Montserrat-BlackItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 348396,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-BlackItalic.ttf"
+        },
+        {
+          "fileName": "Montserrat-Bold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 335788,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-Bold.ttf"
+        },
+        {
+          "fileName": "Montserrat-BoldItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 342016,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-BoldItalic.ttf"
+        },
+        {
+          "fileName": "Montserrat-ExtraBold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 344052,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-ExtraBold.ttf"
+        },
+        {
+          "fileName": "Montserrat-ExtraBoldItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 348532,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-ExtraBoldItalic.ttf"
+        },
+        {
+          "fileName": "Montserrat-ExtraLight.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 330488,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-ExtraLight.ttf"
+        },
+        {
+          "fileName": "Montserrat-ExtraLightItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 336808,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-ExtraLightItalic.ttf"
+        },
+        {
+          "fileName": "Montserrat-Italic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 337132,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-Italic.ttf"
+        },
+        {
+          "fileName": "Montserrat-Light.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 330888,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-Light.ttf"
+        },
+        {
+          "fileName": "Montserrat-LightItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 337208,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-LightItalic.ttf"
+        },
+        {
+          "fileName": "Montserrat-Medium.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 330872,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-Medium.ttf"
+        },
+        {
+          "fileName": "Montserrat-MediumItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 337092,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-MediumItalic.ttf"
+        },
+        {
+          "fileName": "Montserrat-Regular.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 330948,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-Regular.ttf"
+        },
+        {
+          "fileName": "Montserrat-SemiBold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 333988,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-SemiBold.ttf"
+        },
+        {
+          "fileName": "Montserrat-SemiBoldItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 339028,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-SemiBoldItalic.ttf"
+        },
+        {
+          "fileName": "Montserrat-Thin.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 329864,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-Thin.ttf"
+        },
+        {
+          "fileName": "Montserrat-ThinItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 336148,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Montserrat/Montserrat-ThinItalic.ttf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "legibilidad",
+        "datos",
+        "versatil",
+        "moderno"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:30.528Z"
+    },
+    {
+      "id": "fnt-roboto",
+      "type": "fonts",
+      "name": "Roboto",
+      "folderName": "Roboto",
+      "variantsCount": 54,
+      "files": [
+        {
+          "fileName": "Roboto-Black.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 147424,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-Black.ttf"
+        },
+        {
+          "fileName": "Roboto-BlackItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 153780,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-BlackItalic.ttf"
+        },
+        {
+          "fileName": "Roboto-Bold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146768,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-Bold.ttf"
+        },
+        {
+          "fileName": "Roboto-BoldItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 153096,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-BoldItalic.ttf"
+        },
+        {
+          "fileName": "Roboto-ExtraBold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146900,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-ExtraBold.ttf"
+        },
+        {
+          "fileName": "Roboto-ExtraBoldItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 153292,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-ExtraBoldItalic.ttf"
+        },
+        {
+          "fileName": "Roboto-ExtraLight.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146044,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-ExtraLight.ttf"
+        },
+        {
+          "fileName": "Roboto-ExtraLightItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 151664,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-ExtraLightItalic.ttf"
+        },
+        {
+          "fileName": "Roboto-Italic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 152208,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-Italic.ttf"
+        },
+        {
+          "fileName": "Roboto-Light.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146056,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-Light.ttf"
+        },
+        {
+          "fileName": "Roboto-LightItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 151944,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-LightItalic.ttf"
+        },
+        {
+          "fileName": "Roboto-Medium.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146132,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-Medium.ttf"
+        },
+        {
+          "fileName": "Roboto-MediumItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 152416,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-MediumItalic.ttf"
+        },
+        {
+          "fileName": "Roboto-Regular.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146004,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-Regular.ttf"
+        },
+        {
+          "fileName": "Roboto-SemiBold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146760,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-SemiBold.ttf"
+        },
+        {
+          "fileName": "Roboto-SemiBoldItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 153036,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-SemiBoldItalic.ttf"
+        },
+        {
+          "fileName": "Roboto-Thin.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 145936,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-Thin.ttf"
+        },
+        {
+          "fileName": "Roboto-ThinItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 151148,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto-ThinItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-Black.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 147148,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-Black.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-BlackItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 153680,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-BlackItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-Bold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146580,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-Bold.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-BoldItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 152972,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-BoldItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-ExtraBold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146812,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-ExtraBold.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-ExtraBoldItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 153324,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-ExtraBoldItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-ExtraLight.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146004,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-ExtraLight.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-ExtraLightItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 152120,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-ExtraLightItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-Italic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 152248,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-Italic.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-Light.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 145952,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-Light.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-LightItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 152392,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-LightItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-Medium.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 145916,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-Medium.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-MediumItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 152424,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-MediumItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-Regular.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 145908,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-Regular.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-SemiBold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146516,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-SemiBold.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-SemiBoldItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 152660,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-SemiBoldItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-Thin.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 145920,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-Thin.ttf"
+        },
+        {
+          "fileName": "Roboto_Condensed-ThinItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 151588,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_Condensed-ThinItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-Black.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 147372,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-Black.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-BlackItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 153832,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-BlackItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-Bold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146756,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-Bold.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-BoldItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 153148,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-BoldItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-ExtraBold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146860,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-ExtraBold.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-ExtraBoldItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 153360,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-ExtraBoldItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-ExtraLight.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146100,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-ExtraLight.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-ExtraLightItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 152012,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-ExtraLightItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-Italic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 152304,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-Italic.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-Light.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146064,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-Light.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-LightItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 152304,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-LightItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-Medium.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146124,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-Medium.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-MediumItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 152492,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-MediumItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-Regular.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146048,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-Regular.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-SemiBold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146720,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-SemiBold.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-SemiBoldItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 152836,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-SemiBoldItalic.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-Thin.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 146068,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-Thin.ttf"
+        },
+        {
+          "fileName": "Roboto_SemiCondensed-ThinItalic.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 151496,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Roboto/Roboto_SemiCondensed-ThinItalic.ttf"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "universal",
+        "pantallas",
+        "subtitulos",
+        "texto"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:31.316Z"
+    },
+    {
+      "id": "fnt-myriad-pro-ipuc",
+      "type": "fonts",
+      "name": "Myriad Pro IPUC",
+      "folderName": "Myriad Pro IPUC",
+      "variantsCount": 6,
+      "files": [
+        {
+          "fileName": "MyriadPro-Bold.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 31320,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Myriad%20Pro%20IPUC/MyriadPro-Bold.ttf"
+        },
+        {
+          "fileName": "MyriadPro-Bold.woff",
+          "ext": ".woff",
+          "sizeBytes": 16956,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Myriad%20Pro%20IPUC/MyriadPro-Bold.woff"
+        },
+        {
+          "fileName": "MyriadPro-It.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 32332,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Myriad%20Pro%20IPUC/MyriadPro-It.ttf"
+        },
+        {
+          "fileName": "MyriadPro-It.woff",
+          "ext": ".woff",
+          "sizeBytes": 17700,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Myriad%20Pro%20IPUC/MyriadPro-It.woff"
+        },
+        {
+          "fileName": "MyriadPro-Regular.ttf",
+          "ext": ".ttf",
+          "sizeBytes": 31872,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Myriad%20Pro%20IPUC/MyriadPro-Regular.ttf"
+        },
+        {
+          "fileName": "MyriadPro-Regular.woff",
+          "ext": ".woff",
+          "sizeBytes": 17040,
+          "downloadUrl": "https://raw.githubusercontent.com/ing-charlie/fevior-assets/main/fonts/Myriad%20Pro%20IPUC/MyriadPro-Regular.woff"
+        }
+      ],
+      "tags": [
+        "tipografia",
+        "ipuc",
+        "institucional",
+        "oficial",
+        "marca"
+      ],
+      "isOfficial": true,
+      "createdAt": "2026-10-30T19:27:31.354Z"
+    }
+  ]
+}
